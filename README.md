@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello%2C%20World!&center=true&size=30A&color=000000&font=Fira+Code&pause=1000&width=500">
 </h1>
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" text-align=center /><br>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/><br>
 
 - 🏢 I'm currently studying at **FZU**
 - 🚀 I use daily:
