@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello%2C%20World!&center=true&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello%2C%20World!&center=true&size=28A&color=000000">
 </h1>
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
