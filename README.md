@@ -16,8 +16,8 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)
  - 🧰 tools:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
   ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
