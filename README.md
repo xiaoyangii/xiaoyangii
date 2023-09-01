@@ -14,6 +14,7 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
@@ -21,6 +22,11 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
   ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)
+ - 🧐 Linters:
+  ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=plastic&logo=eslint&logoColor=white)
+  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=plastic&logo=prettier&logoColor=F7BA3E)
+ - 👨 Ui:
+  ![Element](https://img.shields.io/badge/Element-0DBD8B?style=plastic&logo=element&logoColor=white)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyangii&layout=compact)](https://github.com/xiaoyangii/github-readme-stats)
   
