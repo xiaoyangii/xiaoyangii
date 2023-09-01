@@ -20,6 +20,7 @@
  - 🧰 tools:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
   ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+  ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyangii&layout=compact)](https://github.com/xiaoyangii/github-readme-stats)
   
