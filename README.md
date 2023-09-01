@@ -6,7 +6,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/><br>
 
-- 🏢 I'm currently studying at **FZU**
+- 🏢 I'm currently studying at **FZU** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=plastic)
