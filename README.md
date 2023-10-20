@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello%2C%20World!&center=true&size=30A&color=000000&font=Fira+Code&pause=1000&width=500">
 </h1>
 
-- 🏢 I'm currently studying at **FZU** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45">
+- 🏢 I'm currently studying at **FZU** 
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=plastic)
