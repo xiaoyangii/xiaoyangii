@@ -20,11 +20,6 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
   ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)
- - 🧐 Linters:
-  ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=plastic&logo=eslint&logoColor=white)
-  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=plastic&logo=prettier&logoColor=F7BA3E)
- - 👨 Ui:
-  ![Element](https://img.shields.io/badge/Element-0DBD8B?style=plastic&logo=element&logoColor=white)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyangii&layout=compact)](https://github.com/xiaoyangii/github-readme-stats)
   
