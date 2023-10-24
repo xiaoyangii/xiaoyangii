@@ -16,10 +16,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)
- - 🧰 tools:
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
-  ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
-  ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyangii&layout=compact)](https://github.com/xiaoyangii/github-readme-stats)
   
